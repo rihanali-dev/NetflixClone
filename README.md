@@ -6,7 +6,7 @@ A modern, responsive, and visually stunning frontend replica of the Netflix web 
 
 ## 🌐 Live Demo
 
-👉 **[Launch Netflix Clone Live](https://netflixclone-rihanali.vercel.app)**
+👉 **[Launch Netflix Clone Live](netflixclone-xi-lake.vercel.app)**
 
 ---
 
